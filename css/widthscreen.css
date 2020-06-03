@@ -1,0 +1,32 @@
+.container-ul{
+    display: none;
+}
+.container-marko{
+    padding-left: 100px;
+}
+.container-marko h1{
+    margin-top: 200px;
+}
+.para1, .img{
+    display: none;
+}
+.img2, .para2{
+    display: block;
+}
+.para{
+    display: block;
+    width: 100%;
+}
+.para2{
+    width: 100%;
+    padding: 0px 100px;
+    color: #fff;
+    margin: 15px 0px;
+}
+#about-img{
+    width: 250px;
+    margin: 30px 0px;
+}
+.sec3{
+    display: block;
+}
