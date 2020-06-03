@@ -2,10 +2,17 @@
     display: none;
 }
 .container-marko{
-    padding-left: 100px;
+    padding-left: 60px;
 }
 .container-marko h1{
     margin-top: 200px;
+    padding-left: 40px;
+}
+.container-marko h3{
+    padding-left: 40px;
+}
+.logo{
+    margin-left: 40px;
 }
 .para1, .img{
     display: none;
@@ -27,6 +34,19 @@
     width: 250px;
     margin: 30px 0px;
 }
+
+#Portfolio{
+    text-align: center;
+}
 .sec3{
+    display: none;
+}
+.sec3-1{
     display: block;
+}
+.sec1, .sec2{
+    width: 50%;
+}
+.sec3-1{
+    width: 100%;
 }

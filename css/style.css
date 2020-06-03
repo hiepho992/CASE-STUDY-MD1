@@ -222,6 +222,9 @@ h3 {
 .sec3 {
     width: 33.33%;
 }
+.sec3-1{
+    display: none;
+}
 
 .visita {
     background-color: #fff;
