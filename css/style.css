@@ -279,7 +279,7 @@ h3 {
 .img-contat {
     width: 50%;
     background: url('/img/form-img.d748ff38.png') no-repeat center center/cover;
-    height: 100vh;
+    /* height: 100vh; */
     background-size: 100%;
 }
 
